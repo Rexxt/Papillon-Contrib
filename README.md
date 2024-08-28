@@ -1,3 +1,5 @@
+# ⚠️ Ce fork de Papillon sert uniquement à contribuer au [projet parent](https://github.com/PapillonApp/Papillon) ! Il peut ainsi contenir des fonctionnalités expérimentales ou du code expérimental. Vous pouvez compiler ce fork de l'application, mais Papillon ne sera pas en mesure de vous aider pour les problèmes rencontrés en utilisant ce fork.
+
 ![Papillon, un client de vie scolaire alternatif open source](https://raw.githubusercontent.com/PapillonApp/Papillon/main/.github/assets/main_banner_light.svg#gh-light-mode-only)
 ![Papillon, un client de vie scolaire alternatif open source](https://raw.githubusercontent.com/PapillonApp/Papillon/main/.github/assets/main_banner_dark.svg#gh-dark-mode-only)
 
